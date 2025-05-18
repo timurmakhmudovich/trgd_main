@@ -1,9 +1,9 @@
 {
     "locales": {
         "en": {
-            "title": "Experience",
+            "title": "Services",
             "title_long_prefix": "Summary of my",
-            "title_long": "**Work** Experience"
+            "title_long": "**Our** Services"
         },
 
         "es": {

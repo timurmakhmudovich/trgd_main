@@ -2,9 +2,9 @@
     "locales": {
         "en": {
             "title": "Welcome!",
-            "title_menu": "About me",
+            "title_menu": "About us",
             "title_long_prefix": "Hello...",
-            "title_long": "I'm **Mark Choi!**"
+            "title_long": "We are **TRGd!**"
         },
 
         "es": {
@@ -86,7 +86,7 @@
             "component": "ArticleInfoBlock",
             "config": {},
             "locales": {
-                "en": {"title": "**A little bit** about me..."},
+                "en": {"title": "**A little bit** about us..."},
                 "es": {"title": "**Un poco** sobre mí..."},
                 "fr": {"title": "**Un peu** à propos de moi..."},
                 "ko": {"title": "저에 **대해 조금**..."}
