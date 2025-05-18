@@ -84,16 +84,16 @@ To add or remove languages, open `public/data/settings.json` and modify the `sup
 {
     "supportedLanguages": [
         {
-            "name": "English",
-            "id": "en",
-            "flagUrl": "images/flags/en.png",
+            "name": "Russian",
+            "id": "ru",
+            "flagUrl": "images/flags/ru.png",
             "default": true
         },
 
         {
-            "name": "日本語",
-            "id": "ja",
-            "flagUrl": "images/flags/ja.png"
+            "name": "English",
+            "id": "en",
+            "flagUrl": "images/flags/en.png"
         }
     ]
 }
