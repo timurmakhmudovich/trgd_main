@@ -1,13 +1,13 @@
 {
     "locales": {
         "en": {
-            "title": "Contact",
+            "title": "Contacts",
             "title_long_prefix": "Don't hesitate to",
             "title_long": "**Contact** Me"
         },
 
         "es": {
-            "title": "Contacto",
+            "title": "Контакты",
             "title_long_prefix": "No dudes en",
             "title_long": "**Contácta**me"
         },
