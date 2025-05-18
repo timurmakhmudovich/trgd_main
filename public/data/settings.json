@@ -52,15 +52,15 @@
     "supportedLanguages": [
         {
             "name": "Russian",
-            "id": "ru",
-            "flagUrl": "images/flags/ru.png"
+            "id": "es",
+            "flagUrl": "images/flags/ru.png",
+            "default": true
         },
 
         {
             "name": "English",
             "id": "en",
-            "flagUrl": "images/flags/en.png",
-            "default": true
+            "flagUrl": "images/flags/en.png"
         }
 
 
