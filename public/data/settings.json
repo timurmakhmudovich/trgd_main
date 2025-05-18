@@ -11,15 +11,15 @@
 
     "profile": {
         "name": "Mark Choi",
-        "stylizedName": "<strong>Mark **Choi**</strong>",
+        "stylizedName": "<strong>TRGd-17/77</strong>",
         "logoUrl": "images/svg/logo.svg",
         "profilePictureUrl": "images/pictures/avatar.jpg",
 
         "locales": {
-            "en": {"role": "Web Developer"},
-            "es": {"role": "Desarrollador Web"},
-            "fr": {"role": "Développeur Web"},
-            "ko": {"role": "웹 개발자"}
+            "en": {"role": "Dark Dev Studio"},
+            "es": {"role": "Dark Dev Studio"},
+            "fr": {"role": "Dark Dev Studio"},
+            "ko": {"role": "Dark Dev Studio"}
         }
     },
 
