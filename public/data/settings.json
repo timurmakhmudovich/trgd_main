@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "animatedCursorEnabled": true,
+    "animatedCursorEnabled": false,
     "fullScreenButtonEnabled": true,
 
     "preloader": {
@@ -51,29 +51,19 @@
 
     "supportedLanguages": [
         {
+            "name": "Russian",
+            "id": "ru",
+            "flagUrl": "images/flags/ru.png"
+        },
+
+        {
             "name": "English",
             "id": "en",
             "flagUrl": "images/flags/en.png",
             "default": true
-        },
-
-        {
-            "name": "Español",
-            "id": "es",
-            "flagUrl": "images/flags/es.png"
-        },
-
-        {
-            "name": "Français",
-            "id": "fr",
-            "flagUrl": "images/flags/fr.png"
-        },
-
-        {
-            "name": "한국어",
-            "id": "ko",
-            "flagUrl": "images/flags/ko.png"
         }
+
+
     ],
 
     "emailjs": {
