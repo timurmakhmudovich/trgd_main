@@ -4,7 +4,6 @@ import {useUtils} from "/src/helpers/utils.js"
 import {useLanguage} from "/src/providers/LanguageProvider.jsx"
 import {useData} from "/src/providers/DataProvider.jsx"
 import ImageView from "/src/components/generic/ImageView.jsx"
-import StatusBadge from "/src/components/generic/StatusBadge.jsx"
 
 function NavHeader({ shrink }) {
     const utils = useUtils()
@@ -29,12 +28,6 @@ function NavHeader({ shrink }) {
             <ImageView src={pfpUrl}
                        className={`img-view-avatar`}
                        alt={name}/>
-
-            {statusVisible && (
-                <StatusBadge available={statusAvailable}
-                         message={statusMessage}
-                         smallMode={shrink}/>
-            )}
 
             <div className={`info mt-3 text-center`}>
                 <h5 className={`name`}>
