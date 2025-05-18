@@ -8,7 +8,6 @@ import {useLanguage} from "/src/providers/LanguageProvider.jsx"
 import {useUtils} from "/src/helpers/utils.js"
 
 import ArticleCards from "/src/components/articles/ArticleCards.jsx"
-import ArticleContactForm from "/src/components/articles/ArticleContactForm.jsx"
 import ArticleGrid from "/src/components/articles/ArticleGrid.jsx"
 import ArticleInfoBlock from "/src/components/articles/ArticleInfoBlock.jsx"
 import ArticleList from "/src/components/articles/ArticleList.jsx"
@@ -33,7 +32,6 @@ const TransitionClasses = {
 
 const ARTICLES = {
     ArticleCards,
-    ArticleContactForm,
     ArticleGrid,
     ArticleInfoBlock,
     ArticleList,
