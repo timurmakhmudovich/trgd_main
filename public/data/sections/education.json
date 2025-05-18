@@ -1,13 +1,13 @@
 {
     "locales": {
         "en": {
-            "title": "Education",
+            "title": "Forums",
             "title_long_prefix": "This is my",
             "title_long": "**Educational** Background"
         },
 
         "es": {
-            "title": "Educación",
+            "title": "Форумы",
             "title_long_prefix": "Esta es mi",
             "title_long": "**Formación** Educativa"
         },

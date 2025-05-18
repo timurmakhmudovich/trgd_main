@@ -2,14 +2,14 @@
     "locales": {
         "en": {
             "title": "Life recently",
-            "title_menu": "Updates",
+            "title_menu": "News",
             "title_long_prefix": "Take a look at my",
             "title_long": "Recent **Updates**"
         },
 
         "es": {
             "title": "Vida Reciente",
-            "title_menu": "Actualizaciones",
+            "title_menu": "Новости",
             "title_long_prefix": "Consulta mis",
             "title_long": "Actualizaciones **Recientes**"
         },
