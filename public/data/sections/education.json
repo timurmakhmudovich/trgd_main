@@ -40,7 +40,7 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "01/01/2015",
+                        "start": "2025",
                         "end": ""
                     },
                     "locales": {
@@ -78,14 +78,14 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "01/01/2014"
+                        "start": "2025"
                     },
                     "locales": {
                         "en": {
                             "title": "**Probiv**",
                             "info": "probiv.cc",
                             "text": "",
-                            "tags": ["PHP 8+", "Laravel", "MongoDB"]
+                            "tags": []
                         },
                         "es": {
                             "title": "**Probiv**",
