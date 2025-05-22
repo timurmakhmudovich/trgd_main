@@ -8,8 +8,8 @@
 
         "es": {
             "title": "Контакты",
-            "title_long_prefix": "No dudes en",
-            "title_long": "**Contácta**me"
+            "title_long_prefix": "Не стесняйтесь",
+            "title_long": "**Связаться** с нами"
         },
 
         "fr": {
@@ -34,7 +34,7 @@
             },
             "locales": {
                 "en": {"title": "Or if you **prefer**..."},
-                "es": {"title": "O si **prefieres**..."},
+                "es": {"title": "Предпочтительный **способ связи**..."},
                 "fr": {"title": "Ou si vous **préférez**..."},
                 "ko": {"title": "또는 **원하시면**..."}
             },
@@ -52,7 +52,7 @@
                     },
                     "locales": {
                         "en": {"title": "Phone"},
-                        "es": {"title": "Teléfono"},
+                        "es": {"title": "Телефон"},
                         "fr": {"title": "Téléphone"},
                         "ko": {"title": "전화"}
                     }
@@ -70,7 +70,7 @@
                     },
                     "locales": {
                         "en": {"title": "E-mail"},
-                        "ko": {"title": "이메일"}
+                        "es": {"title":"Электронная почта"}
                     }
                 },
 
